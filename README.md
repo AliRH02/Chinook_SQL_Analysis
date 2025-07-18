@@ -71,7 +71,7 @@ GROUP BY BillingCountry
 ORDER BY Amount_Spent DESC
 LIMIT 5;
 ```
-📄 [Top 10 Countries Based on Revenue (CSV)](https://github.com/AliRH02/Chinook_SQL_Analysis/blob/main/OutputTables/Top%2010%20Country%20by%20Amount%20Spent.csv) 
+📄 [Top 5 Countries Based on Revenue (CSV)](https://github.com/AliRH02/Chinook_SQL_Analysis/blob/main/OutputTables/Top%205%20Country%20by%20Amount%20Spent.csv) 
 
 
 ### Top 10 Customers and their Relation to the Top 5 Countries
@@ -125,7 +125,7 @@ FROM CustomerSpending
 
 	
 ```
-📄 [Top 10 Countries Based on Revenue (CSV)](https://github.com/AliRH02/Chinook_SQL_Analysis/blob/main/OutputTables/Top%2010%20customers%20by%20spedning%20and%20relation%20to%20top%205%20country%20by%20spending.csv) 
+📄 [Top 10 Customers and their Relation to the Top 5 Countries (CSV)](https://github.com/AliRH02/Chinook_SQL_Analysis/blob/main/OutputTables/Top%2010%20customers%20by%20spedning%20and%20relation%20to%20top%205%20country%20by%20spending.csv) 
 
 ## Power BI Dashboard Summary
 The following visualizations were created using Power BI:
