@@ -1,0 +1,29 @@
+CustomerId,Full_Name,Country,rk,In_TOP_5_Country
+6,Helena Holý,Czech Republic,1,FALSE
+26,Richard Cunningham,USA,2,TRUE
+57,Luis Rojas,Chile,3,FALSE
+45,Ladislav Kovács,Hungary,4,FALSE
+46,Hugh O'Reilly,Ireland,4,FALSE
+24,Frank Ralston,USA,5,TRUE
+28,Julia Barnett,USA,5,TRUE
+37,Fynn Zimmermann,Germany,5,TRUE
+7,Astrid Gruber,Austria,6,FALSE
+25,Victor Stevens,USA,6,TRUE
+44,Terhi Hämäläinen,Finland,7,FALSE
+5,František Wichterlová,Czech Republic,8,FALSE
+43,Isabelle Mercier,France,8,TRUE
+48,Johannes Van der Berg,Netherlands,8,FALSE
+1,Luís Gonçalves,Brazil,9,TRUE
+3,François Tremblay,Canada,9,TRUE
+4,Bjørn Hansen,Norway,9,FALSE
+17,Jack Smith,USA,9,TRUE
+20,Dan Miller,USA,9,TRUE
+22,Heather Leacock,USA,9,TRUE
+34,João Fernandes,Portugal,9,FALSE
+42,Wyatt Girard,France,9,TRUE
+15,Jennifer Peterson,Canada,10,TRUE
+19,Tim Goyer,USA,10,TRUE
+39,Camille Bernard,France,10,TRUE
+40,Dominique Lefebvre,France,10,TRUE
+51,Joakim Johansson,Sweden,10,FALSE
+58,Manoj Pareek,India,10,FALSE
